@@ -14,8 +14,6 @@ Ans:
 
 建立Introduction.md，撰寫自我介紹，並上傳至GitHub。
 
-執行截圖： 
-
 圖 1-1：在本地端執行git add、git commit、git push，將Introduction.md送到GitHub上。
 
 ![Git 操作截圖](img/1-1.png)
